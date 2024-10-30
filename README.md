@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hibernate CRUD Operations with Modular Approach</title>
-</head>
+<!--     <title>Hibernate CRUD Operations with Modular Approach</title>
+</head> -->
 <body>
 
 <h1>Hibernate CRUD Operations with Modular Approach</h1>
