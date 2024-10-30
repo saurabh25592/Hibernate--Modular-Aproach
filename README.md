@@ -1,5 +1,3 @@
-# Hibernate--Modular-Aproach
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
